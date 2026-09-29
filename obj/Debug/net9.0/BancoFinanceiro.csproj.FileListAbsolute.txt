@@ -1,0 +1,14 @@
+C:\Users\Jg\BancoFinanceiro\bin\Debug\net9.0\BancoFinanceiro.exe
+C:\Users\Jg\BancoFinanceiro\bin\Debug\net9.0\BancoFinanceiro.deps.json
+C:\Users\Jg\BancoFinanceiro\bin\Debug\net9.0\BancoFinanceiro.runtimeconfig.json
+C:\Users\Jg\BancoFinanceiro\bin\Debug\net9.0\BancoFinanceiro.dll
+C:\Users\Jg\BancoFinanceiro\bin\Debug\net9.0\BancoFinanceiro.pdb
+C:\Users\Jg\BancoFinanceiro\obj\Debug\net9.0\BancoFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jg\BancoFinanceiro\obj\Debug\net9.0\BancoFinanceiro.AssemblyInfoInputs.cache
+C:\Users\Jg\BancoFinanceiro\obj\Debug\net9.0\BancoFinanceiro.AssemblyInfo.cs
+C:\Users\Jg\BancoFinanceiro\obj\Debug\net9.0\BancoFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\Jg\BancoFinanceiro\obj\Debug\net9.0\BancoFinanceiro.dll
+C:\Users\Jg\BancoFinanceiro\obj\Debug\net9.0\refint\BancoFinanceiro.dll
+C:\Users\Jg\BancoFinanceiro\obj\Debug\net9.0\BancoFinanceiro.pdb
+C:\Users\Jg\BancoFinanceiro\obj\Debug\net9.0\BancoFinanceiro.genruntimeconfig.cache
+C:\Users\Jg\BancoFinanceiro\obj\Debug\net9.0\ref\BancoFinanceiro.dll
